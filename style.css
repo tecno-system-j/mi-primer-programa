@@ -66,3 +66,8 @@ h1{
     font-size: 36px;
     text-align: center;
 }
+
+header img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
